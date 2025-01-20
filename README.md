@@ -92,7 +92,8 @@ All work for this class will be project and presentation-based, and there will b
     - Ch. 3, pp. 43-50 and pp. 69-71
 
 **Recommended:**
-- "[Hadoop in 5 Minutes](https://www.youtube.com/watch?v=aReuLtY0YMI)," Simplilearn (video)
+- "[What is an embarassingly parallel workload?](https://www.youtube.com/watch?v=cadoD0aSQoM&pp=ygUtd2hhdCBpcyBlbWJhcmFzc2luZ2x5IHBhcmFsbGVsIGludGVybmV0LWNsYXNz)" (U. Buffalo, video)
+- [MIT 6.824 Lecture](https://www.youtube.com/watch?v=EpIgvowZr00), Prof. [Robert Morris](http://nil.lcs.mit.edu/rtm/) Spring 2020 (video)
 - [more resources](https://github.com/mab253/bigdata_spring25/blob/main/week1/resources.md) for GFS/HDFS
 
 ---
