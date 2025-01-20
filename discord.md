@@ -15,7 +15,7 @@ Discord is a good tool to learn in today's coding world: most workplaces will ha
 
 Every week you are responsible for, **@ minimum**:
 - initial "hello world" post, due Friday, Feb. 7th
-- 1 post due by 4:00pm NYC-time before every class session, starting Week 3 (Feb. 5th) - post in `#updates` channel
+- 1 post due by 4:00pm NYC-time before every class session, starting Week 3 (Feb. 19th) - post in `#updates` channel
 - making 1 comment or question on **someone else's post**
 
 ## what goes in a post?
