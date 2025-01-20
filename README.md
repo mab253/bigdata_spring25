@@ -94,7 +94,7 @@ All work for this class will be project and presentation-based, and there will b
 **Recommended:**
 - "[What is an embarassingly parallel workload?](https://www.youtube.com/watch?v=cadoD0aSQoM&pp=ygUtd2hhdCBpcyBlbWJhcmFzc2luZ2x5IHBhcmFsbGVsIGludGVybmV0LWNsYXNz)" (U. Buffalo, video)
 - [MIT 6.824 Lecture](https://www.youtube.com/watch?v=EpIgvowZr00), Prof. [Robert Morris](http://nil.lcs.mit.edu/rtm/) Spring 2020 (video)
-- [more resources](https://github.com/mab253/bigdata_spring25/blob/main/week1/resources.md) for GFS/HDFS
+- [more resources](https://github.com/mab253/bigdata_spring25/blob/main/week3/resources.md) for GFS/HDFS
 
 ---
 
