@@ -65,9 +65,10 @@ All work for this class will be project and presentation-based, and there will b
 *Introduction to Big Data, Hello World!*
 
 **Assignment:**
-- read syllabus and symposium doc; complete class survey; "hello world" post on Discord
-- start codeacademy course
-- start readings for Feb. 19th
+- read syllabus and [symposium doc](https://github.com/mab253/bigdata_spring25/blob/main/symposium.md)
+- complete [survey/intro Discord](https://github.com/mab253/bigdata_spring25/blob/main/week0.md)
+- start [codeacademy Big Data course](https://www.codecademy.com/learn/big-data-pyspark)
+- start readings for Feb. 19th 
 
 ---
 
