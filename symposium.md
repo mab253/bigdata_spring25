@@ -21,21 +21,22 @@ Your bibliography should include **@ minimum:**
 You may choose any topic relevant to this course - I am very flexible here! If you have a wild idea, run it by me! The topic must be deep enough that you can find the amount of sources required for the bibliography, but focused enough that you are _not giving only a general overview_. You also must include some technical material so that you are engaging with code in some way (and possibly giving a demo during your presentation). Here are a few topics to get you started thinking, but this is by no means an exhaustive list:
 - Domain-Specific Implementation (science, health, justice, transportation, media)
 - Streaming Data Processing
-- Persistence in Big Data
-- Data Lakes
-- Go (Golang) computer language (Google)
-- Serverless and FaaS Cloud Computing for Big Data
-- Data Storage on the Blockchain (IPFS, etc.)
 - Big Data for Discovery (check out the book _[The Fourth Paradigm](https://en.wikipedia.org/wiki/The_Fourth_Paradigm)_)
 - Big Data + Disaster Response
+- Environmental Impact of Big Data + Scalable Systems Infrastructure
+- Politics of Big Data Infrastructure, New Developments
 - Security + Big Data
+- Data Storage on the Blockchain (IPFS, etc.)
 - Media Storage at Scale
 - Artists Using Big Data
-- Environmental Impact of Big Data + Scalable Systems Infrastructure
+- Go (Golang) computer language (Google)
+- Serverless and FaaS Cloud Computing for Big Data
 - New Developments in Hardware (chips, etc.)
 - Case Study (of a specific company or research project)
 - Search Algorithms (PageRank, etc.)
-- Platform-Specific (CUDA, AWS, Snowflake, MongoDB, Tensorflow, etc.)
+- Persistence in Big Data
+- Data Lakes
+- Platform-Specific Project (CUDA, AWS, Snowflake, MongoDB, Tensorflow, etc.)
 - New Development in LLMs, NLP, Generative AI ...
 - Labor Issues in AI/Data: invisible human labor of training, etc...
 - Social Impact: AI "For Good?," Algorithmic Bias, Big Data in Society, etc.
