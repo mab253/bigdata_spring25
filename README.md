@@ -27,7 +27,7 @@ This is a graduate-level course on the theory, practice, design, and critique of
 This is a **hybrid** course. We will meet mostly synchronously, some weeks online and some weeks in-person. Each week will be labeled as 1 of the following:
 
 - **🏙️ In-Person @ CCNY**
-    - At NAC 4/161, we will meet for discussion and hands-on work (Wednesday evenings)
+    - At NAC 6/268, we will meet for discussion and hands-on work (Wednesday evenings)
 - **🏠 Online Zoom**
     - We will meet on Zoom together (simultaneous, Wednesday evenings)
 - **🦋 Asynchronous**
@@ -114,7 +114,7 @@ All work for this class will be project and presentation-based, and there will b
 ---
 
 **Week 5: Mar. 5 & Mar. 6** \
-🏙️ In-Person
+🏠 Online Zoom
 
 *Spark + PySpark, revisited*
 
@@ -248,7 +248,7 @@ FINAL PROJECT DUE: May. 20th, 11:59pm
 - bibliography + symposium proposal due March 23rd, 11:59pm
 - TO BE CONFIRMED: in-person data center tour, Week 9
 - symposium: in-person, April 23rd & April 30th
-- final project presentation: in-person, May 15th
+- final project short presentation: May 14th
 - final project paper/code: due May 20th, 11:59pm
 
 ## assignments
