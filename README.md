@@ -86,8 +86,8 @@ All work for this class will be project and presentation-based, and there will b
 *Distributed File Systems*
 
 **Readings due today:**
-- "[The Google File System](https://github.com/mab253/bigdata_spring25/blob/main/readings/google-file-system.pdf)," Ghemawat et. al (paper)
-- *[Hadoop, The Definitive Guide](https://github.com/mab253/bigdata_spring25/blob/main/readings/OReilly.Hadoop.The.Definitive.Guide.4th.Edition.2015-Ch-1-3.pdf)*, White:
+- "[The Google File System](https://github.com/mab253/bigdata_spring24/blob/main/readings/google-file-system.pdf)," Ghemawat et. al (paper)
+- *[Hadoop, The Definitive Guide](https://github.com/mab253/bigdata_spring24/blob/main/readings/OReilly.Hadoop.The.Definitive.Guide.4th.Edition.2015-Ch-1-3.pdf)*, White:
     - Ch. 1, pp. 3-14
     - Ch. 3, pp. 43-50 and pp. 69-71
 
@@ -103,11 +103,11 @@ All work for this class will be project and presentation-based, and there will b
 *Parallel Computation: MapReduce*
 
 **Readings due today:**
-- "[MapReduce: Simplified Data Processing on Large Clusters](https://github.com/mab253/bigdata_spring25/blob/main/readings/map-reduce.pdf)," Dean and Ghemawat (paper)
-- *[The Mining of Massive Datasets](https://github.com/mab253/bigdata_spring25/blob/main/readings/mining_massive_datasets-ch-2.pdf),* Leskovec, Rajamaran, Ullman - Ch. 2 pp. 21-31
+- "[MapReduce: Simplified Data Processing on Large Clusters](https://github.com/mab253/bigdata_spring24/blob/main/readings/map-reduce.pdf)," Dean and Ghemawat (paper)
+- *[The Mining of Massive Datasets](https://github.com/mab253/bigdata_spring24/blob/main/readings/mining_massive_datasets-ch-2.pdf),* Leskovec, Rajamaran, Ullman - Ch. 2 pp. 21-31
 
 **Recommended:**
-- from [*Hadoop, The Definitive Guide,* White Ch. 2](https://github.com/mab253/bigdata_spring25/blob/main/readings/OReilly.Hadoop.The.Definitive.Guide.4th.Edition.2015-Ch-2.pdf), pp. 19-37 (you can skim/skip the Java code!)
+- from [*Hadoop, The Definitive Guide,* White Ch. 2](https://github.com/mab253/bigdata_spring24/blob/main/readings/OReilly.Hadoop.The.Definitive.Guide.4th.Edition.2015-Ch-2.pdf), pp. 19-37 (you can skim/skip the Java code!)
 - "[What is MapReduce?](https://www.youtube.com/watch?v=43fqzaSH0CQ)," G. Challen (internet-class), (video, 5 min.)
 - [more resources](https://github.com/mab253/bigdata_spring25/blob/main/week2/resources.md) for MapReduce
 
@@ -119,8 +119,8 @@ All work for this class will be project and presentation-based, and there will b
 *Spark + PySpark, revisited*
 
 **Readings due today:**
-- "[Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://github.com/mab253/bigdata_spring25/blob/main/readings/spark.pdf)," Zaharia et. al (paper)
-- from [*Spark: The Definitive Guide*](https://github.com/mab253/bigdata_spring25/blob/main/readings/Spark-The%20Definitive%20Guide-ch1.pdf), Chambers and Zaharia
+- "[Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://github.com/mab253/bigdata_spring24/blob/main/readings/spark.pdf)," Zaharia et. al (paper)
+- from [*Spark: The Definitive Guide*](https://github.com/mab253/bigdata_spring24/blob/main/readings/Spark-The%20Definitive%20Guide-ch1.pdf), Chambers and Zaharia
 
 **Recommended:**
 - [more resources](https://github.com/mab253/bigdata_spring25/blob/main/week3+4/resources.md) for Spark, PySpark, Python, etc.
@@ -162,7 +162,7 @@ All work for this class will be project and presentation-based, and there will b
 *AI Pipelines*
 
 **Readings due today:**
-- "[Earth](https://github.com/mab253/bigdata_spring25/blob/main/readings/The%20Atlas%20of%20AI%20Power%2C%20Politics%2C%20and%20the%20Planetary%20Costs%20of%20Artificial%20Intelligence-1-earth.pdf)," ch. from _Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence_, Crawford pp. 23-51
+- "[Earth](https://github.com/mab253/bigdata_spring24/blob/main/readings/The%20Atlas%20of%20AI%20Power%2C%20Politics%2C%20and%20the%20Planetary%20Costs%20of%20Artificial%20Intelligence-1-earth.pdf)," ch. from _Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence_, Crawford pp. 23-51
 - "[Anatomy of an AI](https://anatomyof.ai/)," Crawford and Joler - spend some time with diagram - text optional (but recommended!)
 - self-directed reading
 
@@ -188,8 +188,8 @@ All work for this class will be project and presentation-based, and there will b
 *Ethics at Scale*
 
 **Readings due today:**
-- "[Six Provacations for Big Data](https://github.com/mab253/bigdata_spring25/blob/main/readings/six-provocations-boyd-crawford-SSRN.pdf)," boyd and Crawford
-- *Mining of Massive Datasets,* Leskovec, Rajamaran, Ullman from [Ch. 1, pp. 1-7](https://github.com/mab253/bigdata_spring25/blob/main/readings/mining_massive_datasets-ch1.pdf)
+- "[Six Provacations for Big Data](https://github.com/mab253/bigdata_spring24/blob/main/readings/six-provocations-boyd-crawford-SSRN.pdf)," boyd and Crawford
+- *Mining of Massive Datasets,* Leskovec, Rajamaran, Ullman from [Ch. 1, pp. 1-7](https://github.com/mab253/bigdata_spring24/blob/main/readings/mining_massive_datasets-ch1.pdf)
 - self-directed reading
 
 ---
