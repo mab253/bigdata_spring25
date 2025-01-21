@@ -8,7 +8,7 @@ First "hello world" post on the new Discord, due by **Friday, Feb. 7th** @ 11:59
 - Introduce yourself briefly - you can let us know something you did over break, perhaps!
 - Tell us a little about what you are interested in studying in the realm of big data. These could be topics you might want to do for your symposium + final project - check out https://github.com/mab253/bigdata_spring25/blob/main/symposium.md for some ideas. This should be about 1 paragraph.
 
-# looking ahead
+# 🦋 first weeks of class: async
 
 This semester will start a bit differently - I will still be on a research vessel in the Southern Ocean (🧊🐧) until Feb. 12th! We also have some college closures, so we are going to do these first few weeks asynchronously. Your first assignment is to **begin the [Codecademy Introduction to Big Data with PySpark](https://www.codecademy.com/learn/big-data-pyspark)**. You can work on this online mini-course asynchronously at your own pace, and you will need to show a screenshot of the certificate of completion by **Feb. 18th**. NOTE that you only have to do the sections of this course that are free - you do not need to purchase an account. This course is in Python, and it also gives you an introduction to SQL via the library PySpark. 
 
