@@ -256,9 +256,9 @@ FINAL PROJECT DUE: May. 20th, 11:59pm
 ## assignments
 
 You will be responsible for:
-- weekly: [Discord log post](https://github.com/mab253/bigdata_spring25/blob/main/discord.md), due 4:00pm EST *before* every class session, starting Week 1 (or, Saturday 12pm on asynchronous weeks)
+- weekly: [Discord log post](https://github.com/mab253/bigdata_spring25/blob/main/discord.md), due 4:00pm EST *before* every class session
 - weekly: active participation in seminar discussion
-- 2 programming assignments (codecademy mini-course + final notebook)
+- 2 programming assignments (codecademy mini-course + notebook assignment)
 - 1 symposium presentation, in pairs
 - 1 final project, pairs + solo work
 
