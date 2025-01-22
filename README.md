@@ -134,7 +134,8 @@ All work for this class will be project and presentation-based, and there will b
 
 **For this week:**
 - assignment: programming notebook
-- finalize [symposium](https://github.com/mab253/bigdata_spring25/blob/main/symposium.md) pairs + topics, work on bibliography
+- finalize [symposium](https://github.com/mab253/bigdata_spring25/blob/main/symposium.md) pairs + topics
+- self-directed reading - work on symposium bibliography
 
 **Recommended:**
 - revisit the codecademy course to help with the programming assignment!
