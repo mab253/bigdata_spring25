@@ -24,7 +24,7 @@ You may choose any topic relevant to this course - I am very flexible here! If y
 - Big Data for Discovery (check out the book _[The Fourth Paradigm](https://en.wikipedia.org/wiki/The_Fourth_Paradigm)_)
 - Big Data + Disaster Response
 - Environmental Impact of Big Data + Scalable Systems Infrastructure
-- Politics of Big Data Infrastructure, New Developments
+- Politics of Big Data Infrastructure/AI, New Developments
 - Security + Big Data
 - Data Storage on the Blockchain (IPFS, etc.)
 - Media Storage at Scale
