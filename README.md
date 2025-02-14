@@ -77,7 +77,7 @@ All work for this class will be project and presentation-based, and there will b
 
 ---
 
-**🏆 codecademy completed screenshot DUE by Tuesday Feb. 18th, 11:59pm**
+**🏆 codecademy completed screenshot DUE by Tuesday Feb. 18th, 11:59pm** ([submit here](https://airtable.com/appLImpqyB4Mw1xtD/shr2Atc0PIFpR02B2))
 
 ---
 
