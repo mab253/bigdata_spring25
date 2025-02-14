@@ -32,6 +32,7 @@ You may choose any topic relevant to this course - I am very flexible here! If y
 - Go (Golang) computer language (Google)
 - Serverless and FaaS Cloud Computing for Big Data
 - New Developments in Hardware (chips, etc.)
+- Quantum Computing + Big Data
 - Case Study (of a specific company or research project)
 - Search Algorithms (PageRank, etc.)
 - Persistence in Big Data
