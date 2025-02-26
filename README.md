@@ -111,7 +111,7 @@ All work for this class will be project and presentation-based, and there will b
 **Recommended:**
 - from [*Hadoop, The Definitive Guide,* White Ch. 2](https://github.com/mab253/bigdata_spring24/blob/main/readings/OReilly.Hadoop.The.Definitive.Guide.4th.Edition.2015-Ch-2.pdf), pp. 19-37 (you can skim/skip the Java code!)
 - "[What is MapReduce?](https://www.youtube.com/watch?v=43fqzaSH0CQ)," G. Challen (internet-class), (video, 5 min.)
-- [more resources](https://github.com/mab253/bigdata_spring25/blob/main/week2/resources.md) for MapReduce
+- [more resources](https://github.com/mab253/bigdata_spring25/blob/main/week4/resources.md) for MapReduce
 
 ---
 
@@ -125,7 +125,7 @@ All work for this class will be project and presentation-based, and there will b
 - from [*Spark: The Definitive Guide*](https://github.com/mab253/bigdata_spring24/blob/main/readings/Spark-The%20Definitive%20Guide-ch1.pdf), Chambers and Zaharia
 
 **Recommended:**
-- [more resources](https://github.com/mab253/bigdata_spring25/blob/main/week3+4/resources.md) for Spark, PySpark, Python, etc.
+- [more resources](https://github.com/mab253/bigdata_spring25/blob/main/week5/resources.md) for Spark, PySpark, Python, etc.
 
 ---
 
