@@ -19,8 +19,9 @@ on SQL:
 - [CS50: SQL Lecture](https://cs50.harvard.edu/x/2024/weeks/7/), Harvard CS50 (video)
 
 on Hadoop/MapReduce local demo: \
-🐘 I can recommend the following links for attempting a local install of Hadoop/MapReduce (esp. on mac): 
-- https://www.michael-noll.com/tutorials/writing-an-hadoop-mapreduce-program-in-python/
-- https://www.michael-noll.com/tutorials/running-hadoop-on-ubuntu-linux-single-node-cluster/
-- https://medium.com/@MinatoNamikaze02/installing-hadoop-on-macos-m1-m2-2023-d963abeab38e
+🐘 I can recommend the following links for attempting a local install of Hadoop/MapReduce:
+- https://hadoop.apache.org/docs/r3.3.5/hadoop-project-dist/hadoop-common/SingleCluster.html
+- https://www.michael-noll.com/tutorials/running-hadoop-on-ubuntu-linux-single-node-cluster/ (mac)
+- https://www.michael-noll.com/tutorials/writing-an-hadoop-mapreduce-program-in-python/ (mac)
+- https://medium.com/@MinatoNamikaze02/installing-hadoop-on-macos-m1-m2-2023-d963abeab38e (mac)
 The most challenging part of this set-up might be finding your Java installation and making sure it's compatible; and also being sure that your `ssh` settings are correct (so that you don't need a password to access your `localhost`. 
