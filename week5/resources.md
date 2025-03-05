@@ -17,3 +17,10 @@ on SQL:
 - [SQL "Cheatsheet"](https://www.codecademy.com/learn/learn-sql/modules/learn-sql-manipulation/cheatsheet), reference, codecademy 
 - [SQL Quick Reference](https://www.w3schools.com/sql/sql_quickref.asp), reference, w3 schools
 - [CS50: SQL Lecture](https://cs50.harvard.edu/x/2024/weeks/7/), Harvard CS50 (video)
+
+on Hadoop/MapReduce local demo: \
+🐘 I can recommend the following links for attempting a local install of Hadoop/MapReduce (esp. on mac): 
+- https://www.michael-noll.com/tutorials/writing-an-hadoop-mapreduce-program-in-python/
+- https://www.michael-noll.com/tutorials/running-hadoop-on-ubuntu-linux-single-node-cluster/
+- https://medium.com/@MinatoNamikaze02/installing-hadoop-on-macos-m1-m2-2023-d963abeab38e
+The most challenging part of this set-up might be finding your Java installation and making sure it's compatible; and also being sure that your `ssh` settings are correct (so that you don't need a password to access your `localhost`. 
