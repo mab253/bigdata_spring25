@@ -24,4 +24,4 @@ on Hadoop/MapReduce local demo: \
 - https://www.michael-noll.com/tutorials/running-hadoop-on-ubuntu-linux-single-node-cluster/ (mac)
 - https://www.michael-noll.com/tutorials/writing-an-hadoop-mapreduce-program-in-python/ (mac)
 - https://medium.com/@MinatoNamikaze02/installing-hadoop-on-macos-m1-m2-2023-d963abeab38e (mac)
-The most challenging part of this set-up might be finding your Java installation and making sure it's compatible; and also being sure that your `ssh` settings are correct (so that you don't need a password to access your `localhost`. 
+The most challenging part of this set-up might be finding your Java installation path and making sure its version is compatible; and also being sure that your `ssh` settings are correct (so that you don't need a password to access your `localhost`. 
