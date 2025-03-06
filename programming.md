@@ -2,6 +2,8 @@
 
 **due: March 16, 11:59pm** - 
 
+## 🕸️ the common crawl  
+
 For this assignment, you will need to:
 - get a free Databricks account to work on the Spark notebook on a cluster 
 - sign up for **Databricks Community Edition** [here](https://docs.databricks.com/en/getting-started/community-edition.html). Make sure you follow the instructions carefully on that page, so that you sign up for the forever-free, community version.
