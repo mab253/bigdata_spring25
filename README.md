@@ -172,27 +172,26 @@ All work for this class will be project and presentation-based, and there will b
 ---
 
 **Week 9: April 2** \
-🏙️ In-Person
-
-*Questions of Scale: Infrastructure + Materiality*
-
-**DATA CENTER TOUR: TBD**
-
-**Readings due today:**
-- "[The Cloud is Material: On the Environmental Impacts of Computation and Data Storage](https://mit-serc.pubpub.org/pub/the-cloud-is-material/release/1)," Monserrate
-- "[View of a Former Verizon Building](https://vimeo.com/65778055)," Wakeling (video, 19min.)
-- self-directed reading
-
----
-
-**Week 10: Apr. 9** \
-🏠 Online Zoom
+🏙🏠 Online Zoom 
 
 *Ethics at Scale*
 
 **Readings due today:**
 - "[Six Provacations for Big Data](https://github.com/mab253/bigdata_spring24/blob/main/readings/six-provocations-boyd-crawford-SSRN.pdf)," boyd and Crawford
 - *Mining of Massive Datasets,* Leskovec, Rajamaran, Ullman from [Ch. 1, pp. 1-7](https://github.com/mab253/bigdata_spring24/blob/main/readings/mining_massive_datasets-ch1.pdf)
+- self-directed reading
+
+---
+
+**Week 10: Apr. 9** \
+🏙️ In-Person
+
+*Scale: Infrastructure + Materiality* \
+**DATA CENTER TOUR: TBD**
+
+**Readings due today:**
+-  "[The Cloud is Material: On the Environmental Impacts of Computation and Data Storage](https://mit-serc.pubpub.org/pub/the-cloud-is-material/release/1)," Monserrate
+- "[View of a Former Verizon Building](https://vimeo.com/65778055)," Wakeling (video, 19min.)
 - self-directed reading
 
 ---
