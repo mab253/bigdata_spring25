@@ -1,4 +1,4 @@
-# 🤖 + resources for weeks 6, cloud ☁️  
+# 🤖 + resources for weeks 7, cloud ☁️  
 
 📄 papers:
 - "Above the Clouds: A Berkeley View of Cloud Computing" (Armbrust et. al, 2009) - [paper](https://github.com/mab253/bigdata_spring24/blob/main/readings/berkeley-cloud-2009.pdf)
