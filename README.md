@@ -187,7 +187,7 @@ All work for this class will be project and presentation-based, and there will b
 🏙️ In-Person
 
 *Scale: Infrastructure + Materiality* \
-**DATA CENTER TOUR: TBD**
+**DATA CENTER TOUR: 3:30pm, see details on Discord**
 
 **Readings due today:**
 -  "[The Cloud is Material: On the Environmental Impacts of Computation and Data Storage](https://mit-serc.pubpub.org/pub/the-cloud-is-material/release/1)," Monserrate
